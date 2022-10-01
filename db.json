@@ -1,0 +1,175 @@
+{
+    "furniture": [
+        {
+            "GardenFurniture": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/0/6000556_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4412451_1.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4424364_9.jpeg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/0/6098405_f_copy.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/0/6000039-_bear.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/0/6016140.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/0/6081001_xc10.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/0/6093486-1_xc10.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/0/6060228.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/0/6000642_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/0/6000038-_snow.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/0/6098528_80.jpg"
+            ]
+        },
+        {
+            "closets": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5788703.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5700484.1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5701355_3.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5788581.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5782503.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4413670_6.jpeg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5762642_open.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5782466_7.12_1200_1200.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5701714_1_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5762567_close_f.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5762567_close_f_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5701356.jpg"
+            ]
+        },
+        {
+            "couch": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/_/-/_-_-__2_4.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/_/-/_-_-__2_3.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/9/6/9610_niva_002_.jpg.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5700277.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5700243.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5700244.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5700245.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5700271.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5700256.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5700252.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417722.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/5/7/5700273.jpg"
+            ]
+        },
+        {
+            "bed": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420882_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420891_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4411206.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420873_2.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420879_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420870_2.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420894_2.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4411204.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420879_2.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420894_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420876_2.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420882_2.jpg"
+            ]
+        },
+        {
+            "DiningCorners": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4419248.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/o/p/open_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423938_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423939_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423940_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4419395_2_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423600_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4419396_1_1_.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/v/e/venus_and_oak.jpg"
+            ]
+        },
+        {
+            "TVBuffet": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422124.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/b/l/black_4.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422120_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4410660_1_2.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4401948.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4413686_1_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4410552_2_2.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4410562_1_2.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422128.jpg"
+            ]
+        }
+    ],
+    "electronics": [
+        {
+            "TV": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422963_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422882.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422886_9.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422905_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422956.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/6/l/6lgxr75z9jaep19.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422903_1.jpg"
+            ]
+        },
+        {
+            "projector": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4413374.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/d/l/dlv-250-vision-led-projector-isometric1-web.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4401369_2_.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4413377.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4408045_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/p/j/pjx24.jpg"
+            ]
+        },
+        {
+            "washer": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417662_1.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417659_1.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417657_1.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4421886.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417660_1.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417696_1.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417654_1.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4417653.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423015.jpg"
+            ]
+        },
+        {
+            "dryer": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423400_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422447.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4421908.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/1/6/16482892_wt47rt90il_stp_def.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4421909.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4421883.jpg"
+            ]
+        },
+        {
+            "fridge": [
+                "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/2/6/265434.jpg/mxw_2048,ns_atwebp,f_auto",
+                "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/2/7/2777973.jpg/mxw_2048,ns_atwebp,f_auto",
+                "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/2/6/265433.jpg/mxw_2048,ns_atwebp,f_auto",
+                "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/r/t/rt101.jpg/mxw_2048,ns_atwebp,f_auto",
+                "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/d/_/d_3.jpg/mxw_2048,ns_atwebp,f_auto",
+                "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/2/7/276045.jpg/mxw_2048,ns_atwebp,f_auto",
+                "https://d2d22nphq0yz8t.cloudfront.net/6cbcadef-96e0-49e9-b3bd-9921afe362db/https://www.payngo.co.il/media/catalog/product/cache/c9087ceeee3fce9974ad447951e9dfe9/2/7/276043.jpg/mxw_2048,ns_atwebp,f_auto"
+            ]
+        },
+        {
+            "vacuuming": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423892_1.jpeg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422435_8.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423668.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423891_10.jpeg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423891_10.jpeg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4418661_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4420315_1_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4409800.png",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4423890_9.jpg"
+            ]
+        },
+        {
+            "dishwasher": [
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422445.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422228_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422229_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422423.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422425.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422234_1.jpg",
+                "https://www.ace.co.il/media/catalog/product/cache/cd4070449b2667a42f9e5955c1cb05c9/4/4/4422417.jpg"
+            ]
+        }
+    ]
+}
